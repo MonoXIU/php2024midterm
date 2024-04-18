@@ -1,0 +1,3 @@
+登入失敗以error與fail兩種可能呈現
+正常輸入失敗會移至fail.php
+而發生其他故障則是會以error.php移轉
